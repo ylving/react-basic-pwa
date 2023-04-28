@@ -60,6 +60,16 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+.image-container {
+  margin-top: 3rem;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.image-container .image {
+  max-width: 300px;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;

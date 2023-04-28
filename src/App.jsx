@@ -20,6 +20,11 @@ function App() {
         <p>
           Enkel PWA demo
         </p>
+        <figure className="image-container">
+          <a href="/image1.jpeg">
+            <img className="image" src="/image1.jpeg" />
+          </a>
+        </figure>
       </div>
     </>
   )
