@@ -18,6 +18,12 @@
       "src": "/pwa-icon.png",
       "sizes": "512x512",
       "type": "image/png"
+    },
+    {
+      "src": "/pwa_maskable_icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
   "shortcuts": [],
