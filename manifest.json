@@ -15,7 +15,7 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "public/pwa-icon.png",
+      "src": "/public/pwa-icon.png",
       "sizes": "512x512",
       "type": "image/png"
     },
