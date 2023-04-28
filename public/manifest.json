@@ -1,0 +1,29 @@
+{
+  "background_color": "#2a3645",
+  "description": "A simple demo of a PWA",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Simple PWA",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Simple PWA",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "entertainment"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "public/pwa-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "en"
+}
